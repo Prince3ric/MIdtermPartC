@@ -61,7 +61,7 @@ public class UserProfile
         this.genre = genre;
     }
 
-// hello these are comments for the midterm
+
     
     
     
